@@ -1,0 +1,8 @@
+Goal        : CarNoise
+            |
+            ;
+
+CarNoise    : honk  CarNoise-
+            | vroom
+            ;
+

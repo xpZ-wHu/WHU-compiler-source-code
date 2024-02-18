@@ -1,0 +1,10 @@
+Goal        : BirdSound
+            ;
+
+BirdSound   : tweet  BirdSound-
+            | chirp
+            | hoot  BirdNoise-
+            ;
+
+BirdNoise   : squawk
+            ;

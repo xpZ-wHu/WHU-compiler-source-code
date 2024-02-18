@@ -1,0 +1,7 @@
+Father : Grandpa
+		 ;
+Grandpa : Grandma Grandpa
+        |  Σ
+		 ;
+Grandma : SDFISDFOI
+        ;

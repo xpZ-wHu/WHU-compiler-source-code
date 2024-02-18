@@ -1,0 +1,6 @@
+Father : SDFISDFOI FatherNew 
+		| 	SDFLKJNDF FatherNew
+		 ; 
+FatherNew : FDSFOIJ FatherNew 
+		| 	Σ
+		 ; 
